@@ -1,0 +1,57 @@
+body {
+    font-family: "Tango";
+
+    /* background-color: #583baa; */
+    /* background-image: radial-gradient(ellipse farthest-corner at 45px 45px, #0c002a 0%, black 50%, 0c002a 95%); */
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-image: radial-gradient(circle farthest-corner at -2.9% 119.3%, rgba(0, 47, 73, 1) 0%, rgba(39, 169, 255, 1) 100.7%);
+
+}
+
+.info {
+    position: fixed;
+    top: 5rem;
+    left: 5rem;
+    color: white;
+    padding: 30px;
+    transition: fill .5s;
+
+}
+.subdata{
+    font-size: 1rem;
+}
+h2{
+    margin-top: -3rem;
+    color: rgb(178, 198, 166);
+    font-size: 2rem;
+}
+h4{
+    color: rgb(178, 198, 166);
+    display: flex;
+}
+
+hr{
+    border-color: aliceblue;
+    background-color: rgb(170, 202, 102);
+    height: 0.3rem;
+    box-shadow: 3px 3px 2px rgb(170, 202, 102);
+}
+.country {
+    transition: fill .5s;
+}
+
+.title {
+    font-size: 3.5rem;
+    padding: 16px, 32px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 30px;
+    text-shadow: 3px 3px 2px rgb(170, 202, 102);
+}
+
+@font-face {
+    font-family: "Tango";
+    src: url("../assets/TANGOSANS_BOLD.woff")
+}
