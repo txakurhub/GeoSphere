@@ -8,5 +8,5 @@ It was developed with Javascript, CSS, HTML and D3 library.
 <p align='center'>
  Deploy: https://geosphere.vercel.app/
  </br>
-
     <img src='https://res.cloudinary.com/ddkurzft6/image/upload/v1662387549/geosphere/geosphere_wzljo2.jpg' alt='geosphere' />
+</p>
