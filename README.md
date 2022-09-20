@@ -7,8 +7,8 @@ It was developed with Javascript, CSS, HTML and D3 library.
 
 ```
  git clone https://github.com/txakurhub/GeoSphere
- npm install >> GeoSphere/
- npm run dev >> GeoSphere/
+ npm install 
+ npm start 
 ```
 
 ## 💻 Preview
